@@ -12,6 +12,18 @@ Wikiman is a universal offline documentation search engine for manual pages, tld
 x install wikiman
 ```
 
+## 代码规模
+
+合计: **2,442** 行代码（覆盖前 5 种语言、共 **22** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Sh | 1,843 | 32 | 425 | 12 |
+| Makefile | 245 | 0 | 53 | 2 |
+| Yaml | 105 | 0 | 0 | 4 |
+| Zsh | 69 | 2 | 10 | 2 |
+| Bash | 66 | 2 | 15 | 2 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/filiparag/wikiman>
@@ -22,20 +34,6 @@ x install wikiman
 - **最新版本**: `2.14.1` (2025-05-14)
 - **最近提交**: 2026-07-11
 - **Release 含资产**: 9 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [arch-wiki_20260810.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/arch-wiki_20260810.source.tar.xz) | 17.0 MiB | `other` |
-| [devdocs_20260810.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/devdocs_20260810.source.tar.xz) | 258.1 MiB | `other` |
-| [freebsd-docs_20260810.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/freebsd-docs_20260810.source.tar.xz) | 38.7 MiB | `other` |
-| [gentoo-wiki_20260810.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/gentoo-wiki_20260810.source.tar.xz) | 5.0 MiB | `other` |
-| [tldr-pages_20260810.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/tldr-pages_20260810.source.tar.xz) | 3.4 MiB | `other` |
-| [wikiman-2.14.1-1-any.archlinux.pkg.tar.zst](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1-any.archlinux.pkg.tar.zst) | 17.9 KiB | `other` |
-| [wikiman-2.14.1-1.noarch.rpm](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1.noarch.rpm) | 23.7 KiB | `other` |
-| [wikiman-2.14.1-1_any.deb](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1_any.deb) | 15.3 KiB | `other` |
-| [wikiman-2.14.1_1.freebsd.pkg](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1_1.freebsd.pkg) | 16.4 KiB | `other` |
 
 ## 流行度
 
@@ -50,20 +48,34 @@ x install wikiman
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 1 | 0 | 4 |
 | 360d | 2025-09-15 | 0 | 0 | 1 | 4 | 1 | 4 |
+| last720d | 2024-09-20 | 2 | 0 | 1 | 14 | 1 | 25 |
 
-## 代码规模
+## Release 资产
 
-合计: **2,442** 行代码（覆盖前 5 种语言、共 **22** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [arch-wiki_20260910.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/arch-wiki_20260910.source.tar.xz) | 17.2 MiB | `other` |
+| [devdocs_20260910.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/devdocs_20260910.source.tar.xz) | 258.6 MiB | `other` |
+| [freebsd-docs_20260910.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/freebsd-docs_20260910.source.tar.xz) | 36.0 MiB | `other` |
+| [gentoo-wiki_20260910.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/gentoo-wiki_20260910.source.tar.xz) | 4.9 MiB | `other` |
+| [tldr-pages_20260910.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/tldr-pages_20260910.source.tar.xz) | 3.4 MiB | `other` |
+| [wikiman-2.14.1-1-any.archlinux.pkg.tar.zst](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1-any.archlinux.pkg.tar.zst) | 17.9 KiB | `other` |
+| [wikiman-2.14.1-1.noarch.rpm](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1.noarch.rpm) | 23.7 KiB | `other` |
+| [wikiman-2.14.1-1_any.deb](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1_any.deb) | 15.3 KiB | `other` |
+| [wikiman-2.14.1_1.freebsd.pkg](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1_1.freebsd.pkg) | 16.4 KiB | `other` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Sh | 1,843 | 32 | 425 | 12 |
-| Makefile | 245 | 0 | 53 | 2 |
-| Yaml | 105 | 0 | 0 | 4 |
-| Zsh | 69 | 2 | 10 | 2 |
-| Bash | 66 | 2 | 15 | 2 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/wikiman) 上共有 **10** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `2.14.1` | ✅ latest |
+| Nix unstable | `2.14.1` | ✅ latest |
 
 ## 改进这些数据
 
@@ -74,4 +86,4 @@ wikiman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:07:13Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:30:31Z._

@@ -12,6 +12,18 @@ Wikiman is a universal offline documentation search engine for manual pages, tld
 x install wikiman
 ```
 
+## Code insight
+
+Total: **2,442** lines of code across **22** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Sh | 1,843 | 32 | 425 | 12 |
+| Makefile | 245 | 0 | 53 | 2 |
+| Yaml | 105 | 0 | 0 | 4 |
+| Zsh | 69 | 2 | 10 | 2 |
+| Bash | 66 | 2 | 15 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/filiparag/wikiman>
@@ -22,20 +34,6 @@ x install wikiman
 - **Latest**: `2.14.1` (2025-05-14)
 - **Last commit**: 2026-07-11
 - **Assets in release**: 9
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [arch-wiki_20260810.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/arch-wiki_20260810.source.tar.xz) | 17.0 MiB | `other` |
-| [devdocs_20260810.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/devdocs_20260810.source.tar.xz) | 258.1 MiB | `other` |
-| [freebsd-docs_20260810.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/freebsd-docs_20260810.source.tar.xz) | 38.7 MiB | `other` |
-| [gentoo-wiki_20260810.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/gentoo-wiki_20260810.source.tar.xz) | 5.0 MiB | `other` |
-| [tldr-pages_20260810.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/tldr-pages_20260810.source.tar.xz) | 3.4 MiB | `other` |
-| [wikiman-2.14.1-1-any.archlinux.pkg.tar.zst](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1-any.archlinux.pkg.tar.zst) | 17.9 KiB | `other` |
-| [wikiman-2.14.1-1.noarch.rpm](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1.noarch.rpm) | 23.7 KiB | `other` |
-| [wikiman-2.14.1-1_any.deb](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1_any.deb) | 15.3 KiB | `other` |
-| [wikiman-2.14.1_1.freebsd.pkg](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1_1.freebsd.pkg) | 16.4 KiB | `other` |
 
 ## Popularity
 
@@ -50,20 +48,34 @@ x install wikiman
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 1 | 0 | 4 |
 | 360d | 2025-09-15 | 0 | 0 | 1 | 4 | 1 | 4 |
+| last720d | 2024-09-20 | 2 | 0 | 1 | 14 | 1 | 25 |
 
-## Code size
+## Release assets
 
-Total: **2,442** lines of code across **22** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [arch-wiki_20260910.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/arch-wiki_20260910.source.tar.xz) | 17.2 MiB | `other` |
+| [devdocs_20260910.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/devdocs_20260910.source.tar.xz) | 258.6 MiB | `other` |
+| [freebsd-docs_20260910.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/freebsd-docs_20260910.source.tar.xz) | 36.0 MiB | `other` |
+| [gentoo-wiki_20260910.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/gentoo-wiki_20260910.source.tar.xz) | 4.9 MiB | `other` |
+| [tldr-pages_20260910.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/tldr-pages_20260910.source.tar.xz) | 3.4 MiB | `other` |
+| [wikiman-2.14.1-1-any.archlinux.pkg.tar.zst](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1-any.archlinux.pkg.tar.zst) | 17.9 KiB | `other` |
+| [wikiman-2.14.1-1.noarch.rpm](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1.noarch.rpm) | 23.7 KiB | `other` |
+| [wikiman-2.14.1-1_any.deb](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1_any.deb) | 15.3 KiB | `other` |
+| [wikiman-2.14.1_1.freebsd.pkg](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1_1.freebsd.pkg) | 16.4 KiB | `other` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Sh | 1,843 | 32 | 425 | 12 |
-| Makefile | 245 | 0 | 53 | 2 |
-| Yaml | 105 | 0 | 0 | 4 |
-| Zsh | 69 | 2 | 10 | 2 |
-| Bash | 66 | 2 | 15 | 2 |
+## Distribution status
+
+Reported by **10** distros on [repology.org](https://repology.org/project/wikiman). **9** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `2.14.1` | ✅ latest |
+| Nix unstable | `2.14.1` | ✅ latest |
 
 ## Improve this data
 
@@ -74,4 +86,4 @@ Install metadata for wikiman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:07:13Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:30:30Z._
