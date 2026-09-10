@@ -1,0 +1,111 @@
+- repo: arch
+  subrepo: extra
+  srcname: wikiman
+  binname: wikiman
+  visiblename: wikiman
+  version: 2.14.1
+  origversion: 2.14.1-2
+  status: newest
+  summary: Offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: textproc/wikiman
+  binname: wikiman
+  visiblename: textproc/wikiman
+  version: 2.14.1
+  origversion: null
+  status: newest
+  summary: Offline interactive documentation search
+  maintainers:
+    - filip@parag.rs
+  categories:
+    - textproc
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: wikiman
+  binname: wikiman
+  visiblename: wikiman
+  version: 2.14.1
+  origversion: 2.14.1-2
+  status: newest
+  summary: Offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: wikiman
+  binname: wikiman
+  visiblename: wikiman
+  version: 2.14.1
+  origversion: 2.14.1-2
+  status: newest
+  summary: Offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: wikiman
+  binname: wikiman
+  visiblename: wikiman
+  version: 2.14.1
+  origversion: 2.14.1-2
+  status: newest
+  summary: Offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: wikiman
+  visiblename: wikiman
+  version: 2.13.2
+  origversion: null
+  status: outdated
+  summary: Offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation
+  maintainers:
+    - hi@pluie.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: wikiman
+  visiblename: wikiman
+  version: 2.14.1
+  origversion: null
+  status: newest
+  summary: Offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation
+  maintainers:
+    - hi@pluie.me
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: wikiman
+  visiblename: wikiman
+  version: 2.14.1
+  origversion: null
+  status: newest
+  summary: Offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation
+  maintainers:
+    - hi@pluie.me
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: wikiman
+  visiblename: wikiman
+  version: 2.14.1
+  origversion: null
+  status: newest
+  summary: Offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation
+  maintainers:
+    - hi@pluie.me
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: wikiman
+  binname: wikiman
+  visiblename: wikiman
+  version: 2.14.1
+  origversion: 2.14.1-2
+  status: newest
+  summary: Offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation
+  licenses:
+    - MIT
