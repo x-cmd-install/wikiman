@@ -4,7 +4,7 @@
 
 Wikiman is a universal offline documentation search engine for manual pages, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs, and FreeBSD documentation
 
-![wikiman](https://repo.x-cmd.io/wikiman.svg)
+![wikiman](https://repo.x-cmd.io/wikiman.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,24 @@ x install wikiman
 - **最新版本**: `2.14.1` (2025-05-14)
 - **最近提交**: 2026-07-11
 - **Release 含资产**: 9 个
-- **发布时间**: 2025-05-14T17:15:58Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [arch-wiki_20260810.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/arch-wiki_20260810.source.tar.xz) | 17.0 MiB | `other` |
+| [devdocs_20260810.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/devdocs_20260810.source.tar.xz) | 258.1 MiB | `other` |
+| [freebsd-docs_20260810.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/freebsd-docs_20260810.source.tar.xz) | 38.7 MiB | `other` |
+| [gentoo-wiki_20260810.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/gentoo-wiki_20260810.source.tar.xz) | 5.0 MiB | `other` |
+| [tldr-pages_20260810.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/tldr-pages_20260810.source.tar.xz) | 3.4 MiB | `other` |
+| [wikiman-2.14.1-1-any.archlinux.pkg.tar.zst](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1-any.archlinux.pkg.tar.zst) | 17.9 KiB | `other` |
+| [wikiman-2.14.1-1.noarch.rpm](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1.noarch.rpm) | 23.7 KiB | `other` |
+| [wikiman-2.14.1-1_any.deb](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1_any.deb) | 15.3 KiB | `other` |
+| [wikiman-2.14.1_1.freebsd.pkg](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1_1.freebsd.pkg) | 16.4 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 1,015 · **Fork**: 26 · **开放 issue**: 37 · **贡献者**: 9
+- **Star**: 1,016 · **Fork**: 26 · **开放 issue**: 37 · **贡献者**: 9
 
 ## 累计统计
 
@@ -61,4 +74,4 @@ wikiman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:36:53Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:07:13Z._
