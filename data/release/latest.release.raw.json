@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5195796,
       "digest": "sha256:79f33dda40e015539362feb6c6e38f1b387848958f43fc0ea5d0145a836a909e",
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2026-08-10T14:21:33Z",
       "updated_at": "2026-08-10T14:21:33Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/gentoo-wiki_20260810.source.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3522812,
       "digest": "sha256:daf76ccd5308992375505f8e7a929d8f5bfe96c1b68ccebc81ca67509caa75dc",
-      "download_count": 116,
+      "download_count": 117,
       "created_at": "2026-08-10T14:21:33Z",
       "updated_at": "2026-08-10T14:21:33Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/tldr-pages_20260810.source.tar.xz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 15656,
       "digest": null,
-      "download_count": 1057,
+      "download_count": 1058,
       "created_at": "2025-05-14T17:11:23Z",
       "updated_at": "2025-05-14T17:11:23Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1_any.deb"
