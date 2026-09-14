@@ -47,12 +47,12 @@ Total: **2,442** lines of code across **22** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last180d | 2026-03-17 | 0 | 0 | 0 | 1 | 0 | 4 |
-| 360d | 2025-09-18 | 0 | 0 | 1 | 4 | 1 | 4 |
-| last720d | 2024-09-23 | 2 | 0 | 1 | 14 | 1 | 25 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last180d | 2026-03-18 | 0 | 0 | 0 | 1 | 0 | 4 |
+| 360d | 2025-09-19 | 0 | 0 | 1 | 4 | 1 | 4 |
+| last720d | 2024-09-24 | 2 | 0 | 1 | 14 | 1 | 25 |
 
 ## Release assets
 
@@ -68,15 +68,6 @@ Total: **2,442** lines of code across **22** files in the top 5 languages.
 | [wikiman-2.14.1-1_any.deb](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1_any.deb) | 15.3 KiB | `other` |
 | [wikiman-2.14.1_1.freebsd.pkg](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1_1.freebsd.pkg) | 16.4 KiB | `other` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/wikiman). **9** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2.14.1` | ✅ latest |
-| Nix unstable | `2.14.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for wikiman lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `wikiman` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +77,4 @@ Install metadata for wikiman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:49:52Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:53:43Z._
