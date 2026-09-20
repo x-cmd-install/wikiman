@@ -4,7 +4,7 @@
 
 Wikiman is a universal offline documentation search engine for manual pages, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs, and FreeBSD documentation
 
-![wikiman](https://repo.x-cmd.io/wikiman.svg)
+[![x-cmd/install — wikiman Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wikiman.svg)](https://x-cmd.com/install/wikiman)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **2,442** lines of code across **22** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 1 | 0 | 4 |
-| 360d | 2025-09-23 | 0 | 0 | 1 | 4 | 1 | 4 |
-| last720d | 2024-09-28 | 2 | 0 | 1 | 14 | 1 | 25 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 1 | 0 | 4 |
+| 360d | 2025-09-25 | 0 | 0 | 1 | 4 | 1 | 4 |
+| last720d | 2024-09-30 | 2 | 0 | 1 | 14 | 1 | 25 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for wikiman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:46:55Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:02:21Z._
