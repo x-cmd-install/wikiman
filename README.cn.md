@@ -47,22 +47,22 @@ x install wikiman
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-13 | 0 | 0 | 0 | 0 | 0 | 2 |
-| 360d | 2025-10-15 | 0 | 0 | 1 | 3 | 1 | 4 |
-| last720d | 2024-10-20 | 2 | 0 | 1 | 14 | 1 | 25 |
+| 30d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-14 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 360d | 2025-10-16 | 0 | 0 | 1 | 3 | 1 | 4 |
+| last720d | 2024-10-21 | 2 | 0 | 1 | 14 | 1 | 25 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [arch-wiki_20260910.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/arch-wiki_20260910.source.tar.xz) | 17.2 MiB | `other` |
-| [devdocs_20260910.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/devdocs_20260910.source.tar.xz) | 258.6 MiB | `other` |
-| [freebsd-docs_20260910.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/freebsd-docs_20260910.source.tar.xz) | 36.0 MiB | `other` |
-| [gentoo-wiki_20260910.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/gentoo-wiki_20260910.source.tar.xz) | 4.9 MiB | `other` |
-| [tldr-pages_20260910.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/tldr-pages_20260910.source.tar.xz) | 3.4 MiB | `other` |
+| [arch-wiki_20261010.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/arch-wiki_20261010.source.tar.xz) | 17.4 MiB | `other` |
+| [devdocs_20261010.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/devdocs_20261010.source.tar.xz) | 278.9 MiB | `other` |
+| [freebsd-docs_20261010.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/freebsd-docs_20261010.source.tar.xz) | 32.7 MiB | `other` |
+| [gentoo-wiki_20261010.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/gentoo-wiki_20261010.source.tar.xz) | 5.4 MiB | `other` |
+| [tldr-pages_20261010.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/tldr-pages_20261010.source.tar.xz) | 3.5 MiB | `other` |
 | [wikiman-2.14.1-1-any.archlinux.pkg.tar.zst](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1-any.archlinux.pkg.tar.zst) | 17.9 KiB | `other` |
 | [wikiman-2.14.1-1.noarch.rpm](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1.noarch.rpm) | 23.7 KiB | `other` |
 | [wikiman-2.14.1-1_any.deb](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1_any.deb) | 15.3 KiB | `other` |
@@ -77,4 +77,4 @@ wikiman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261010.yml` · 2026-10-10T05:47:34Z._
+_数据快照: `data/card/261011.yml` · 2026-10-11T05:46:49Z._
