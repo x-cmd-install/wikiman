@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 18280180,
       "digest": "sha256:f1938e4c36fe1fd0c1f01cc1b5e79402df012c25b59b70936d44604d8f8c7f69",
-      "download_count": 20,
+      "download_count": 22,
       "created_at": "2026-10-10T18:20:44Z",
       "updated_at": "2026-10-10T18:20:45Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/arch-wiki_20261010.source.tar.xz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 292416588,
       "digest": "sha256:89531e624e1ec27e0d3e1fa0aebcd4ba131b0ca03c36581e807ed8393ba88482",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-10-10T18:20:44Z",
       "updated_at": "2026-10-10T18:20:52Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/devdocs_20261010.source.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 34323208,
       "digest": "sha256:1988f5006bf7e0a7b0691870d5a54e1a8d7b517773cb772031e310bd1194e50f",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-10T18:20:44Z",
       "updated_at": "2026-10-10T18:20:46Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/freebsd-docs_20261010.source.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5621844,
       "digest": "sha256:60402dcbdd12f6725052ca272a7ac82e23915079607054ae16e5f58971b560c7",
-      "download_count": 30,
+      "download_count": 33,
       "created_at": "2026-10-10T18:20:44Z",
       "updated_at": "2026-10-10T18:20:45Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/gentoo-wiki_20261010.source.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3700396,
       "digest": "sha256:96be43f5f8984aa37e4cb2abb4b9fa889eac843b5ced28099c099a754992b2d9",
-      "download_count": 15,
+      "download_count": 18,
       "created_at": "2026-10-10T18:20:44Z",
       "updated_at": "2026-10-10T18:20:44Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/tldr-pages_20261010.source.tar.xz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 15656,
       "digest": null,
-      "download_count": 1125,
+      "download_count": 1126,
       "created_at": "2025-05-14T17:11:23Z",
       "updated_at": "2025-05-14T17:11:23Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1_any.deb"
