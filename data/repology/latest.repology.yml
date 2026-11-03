@@ -26,9 +26,9 @@
   srcname: wikiman
   binname: wikiman
   visiblename: wikiman
-  version: 2.14.1
-  origversion: 2.14.1-2
-  status: newest
+  version: 2.13.2
+  origversion: 2.13.2-1
+  status: outdated
   summary: Offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation
   licenses:
     - MIT
@@ -37,9 +37,9 @@
   srcname: wikiman
   binname: wikiman
   visiblename: wikiman
-  version: 2.14.1
-  origversion: 2.14.1-2
-  status: newest
+  version: 2.13.2
+  origversion: 2.13.2-1
+  status: outdated
   summary: Offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation
   licenses:
     - MIT
