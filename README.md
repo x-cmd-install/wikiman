@@ -47,21 +47,21 @@ Total: **2,442** lines of code across **22** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-12 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-14 | 0 | 0 | 1 | 0 | 0 | 2 |
-| 360d | 2025-11-15 | 0 | 0 | 2 | 3 | 0 | 4 |
-| last720d | 2024-11-20 | 2 | 0 | 2 | 14 | 1 | 25 |
+| 30d | 2026-10-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-13 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-05-15 | 0 | 0 | 1 | 0 | 0 | 2 |
+| 360d | 2025-11-16 | 0 | 0 | 2 | 3 | 0 | 4 |
+| last720d | 2024-11-21 | 2 | 0 | 2 | 14 | 1 | 25 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [arch-wiki_20261010.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/arch-wiki_20261010.source.tar.xz) | 17.4 MiB | `other` |
-| [devdocs_20261010.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/devdocs_20261010.source.tar.xz) | 278.9 MiB | `other` |
-| [freebsd-docs_20261010.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/freebsd-docs_20261010.source.tar.xz) | 32.7 MiB | `other` |
-| [gentoo-wiki_20261010.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/gentoo-wiki_20261010.source.tar.xz) | 5.4 MiB | `other` |
+| [arch-wiki_20261110.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/arch-wiki_20261110.source.tar.xz) | 17.3 MiB | `other` |
+| [devdocs_20261110.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/devdocs_20261110.source.tar.xz) | 287.8 MiB | `other` |
+| [freebsd-docs_20261110.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/freebsd-docs_20261110.source.tar.xz) | 32.8 MiB | `other` |
+| [gentoo-wiki_20261110.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/gentoo-wiki_20261110.source.tar.xz) | 1.8 MiB | `other` |
 | [tldr-pages_20261010.source.tar.xz](https://github.com/filiparag/wikiman/releases/download/2.14.1/tldr-pages_20261010.source.tar.xz) | 3.5 MiB | `other` |
 | [wikiman-2.14.1-1-any.archlinux.pkg.tar.zst](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1-any.archlinux.pkg.tar.zst) | 17.9 KiB | `other` |
 | [wikiman-2.14.1-1.noarch.rpm](https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1.noarch.rpm) | 23.7 KiB | `other` |
@@ -86,4 +86,4 @@ Install metadata for wikiman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:17:04Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:11:59Z._
