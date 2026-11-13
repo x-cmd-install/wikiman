@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 18167916,
       "digest": "sha256:7588ce95ff9757cd56c425b9c344132dd09158fefd96d6e7f72e1940391a2080",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-11-10T20:17:21Z",
       "updated_at": "2026-11-10T20:17:22Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/arch-wiki_20261110.source.tar.xz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 301826772,
       "digest": "sha256:4c243f544bbbb8c84a3e47b1b51dfad88d03687868d6125a87141ab41d283de3",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-11-10T20:17:21Z",
       "updated_at": "2026-11-10T20:17:32Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/devdocs_20261110.source.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1901304,
       "digest": "sha256:d6fecdbc09998d30237e9eefbdad4312df26b997584604fff41616b71dcdfc0e",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-10T20:17:21Z",
       "updated_at": "2026-11-10T20:17:21Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/gentoo-wiki_20261110.source.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3700396,
       "digest": "sha256:96be43f5f8984aa37e4cb2abb4b9fa889eac843b5ced28099c099a754992b2d9",
-      "download_count": 75,
+      "download_count": 78,
       "created_at": "2026-10-10T18:20:44Z",
       "updated_at": "2026-10-10T18:20:44Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/tldr-pages_20261010.source.tar.xz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 24265,
       "digest": null,
-      "download_count": 383,
+      "download_count": 385,
       "created_at": "2025-05-14T17:11:23Z",
       "updated_at": "2025-05-14T17:11:23Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1.noarch.rpm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 15656,
       "digest": null,
-      "download_count": 1167,
+      "download_count": 1168,
       "created_at": "2025-05-14T17:11:23Z",
       "updated_at": "2025-05-14T17:11:23Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/wikiman-2.14.1-1_any.deb"
