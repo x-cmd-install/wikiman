@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 18167916,
       "digest": "sha256:7588ce95ff9757cd56c425b9c344132dd09158fefd96d6e7f72e1940391a2080",
-      "download_count": 47,
+      "download_count": 48,
       "created_at": "2026-11-10T20:17:21Z",
       "updated_at": "2026-11-10T20:17:22Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/arch-wiki_20261110.source.tar.xz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 301826772,
       "digest": "sha256:4c243f544bbbb8c84a3e47b1b51dfad88d03687868d6125a87141ab41d283de3",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-11-10T20:17:21Z",
       "updated_at": "2026-11-10T20:17:32Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/devdocs_20261110.source.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1901304,
       "digest": "sha256:d6fecdbc09998d30237e9eefbdad4312df26b997584604fff41616b71dcdfc0e",
-      "download_count": 48,
+      "download_count": 67,
       "created_at": "2026-11-10T20:17:21Z",
       "updated_at": "2026-11-10T20:17:21Z",
       "browser_download_url": "https://github.com/filiparag/wikiman/releases/download/2.14.1/gentoo-wiki_20261110.source.tar.xz"
